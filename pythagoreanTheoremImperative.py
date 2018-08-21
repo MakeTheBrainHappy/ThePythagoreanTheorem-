@@ -5,4 +5,5 @@ def main():
 	b = 2 #second side
 	c = math.sqrt(a**2 + b**2) #calculates the third side of the triangle
 	print(c) #final answer
+	
 main()
